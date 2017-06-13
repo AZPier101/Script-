@@ -1,3 +1,14 @@
+
+
+
+
+
+
+
+
+
+
+
 define y = Character('ยูกะ', color="#E259E2", what_color="#E259E2")
 define k = DynamicCharacter('player_name', color="#54F23D", what_color="#54F23D")
 define p = Character('???', color="#EA2A2A", what_color="#EA2A2A")
