@@ -1,0 +1,9 @@
+    style.default.font = "tahoma.ttf"
+
+    style.say_label.font = "tahoma.ttf" #ชื่อตัวละครจะะใส่เป็น Text ตระกูลอื่นก็ได้
+    style.say_label.bold= False #กำหนดความหนาของ ชื่อตัวละคร เช่น 1,2,3 ถ้าตั้งไว้เป็น False คือ text ปกติ
+    style.say_label.size = 24 #ขนาดของชื่อ
+    style.say_label.xpos = 20 # พิกัดแนวนอน
+    style.say_label.ypos = -50 # พิกัดแนวตั้ง
+    
+    style.default.size = 24
